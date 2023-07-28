@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">OttMotel 1.0</string>
+  <string name="title_activity_login">LoginActivity</string>
+  <string name="prompt_email">Email</string>
+  <string name="prompt_password">Password</string>
+  <string name="action_sign_in">Se Connecter ou inscrivez-vous</string>
+  <string name="action_sign_in_short">Se Connecter</string>
+  <string name="welcome">"Bienvenue"</string>
+  <string name="invalid_username">Nom d\'utilisateur non valide</string>
+  <string name="invalid_password">Le mot de passe doit contenir plus de 5 caractères</string>
+  <string name="login_failed">"Échec de la connexion"</string>
+  <!-- Strings used for fragments for navigation -->
+  <string name="first_fragment_label">First Fragment</string>
+  <string name="second_fragment_label">Second Fragment</string>
+  <string name="next">Prochain</string>
+  <string name="previous">précédent</string>
+
+  <string name="hello_first_fragment">Bonjour premiere fragment</string>
+  <string name="hello_second_fragment">Bonjour deuxieme fragment. Arg: %1$s</string>
+
+  <string name="title_activity_welcome">Home Screen</string>
+  <string name="skip">SKIP</string>
+  <string name="start">GOT IT</string>
+  <string name="drawer_open">Ouvrir le tiroir de navigation</string>
+  <string name="drawer_close">Fermer le tiroir de navigation</string>
+
+  <string name="slide_1_title">Hello Food!</string>
+  <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+  <string name="slide_2_title">Movie Tickets</string>
+  <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+  <string name="slide_3_title">Great Discounts</string>
+  <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+  <string name="slide_4_title">World Travel</string>
+  <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+  <string name="play_again_desc">Pour revoir le curseur de bienvenue, allez dans Paramètres -> applications -> curseur de bienvenue -> effacer les données</string>
+  <string name="play_again">Rejouer</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+</resources>
+
